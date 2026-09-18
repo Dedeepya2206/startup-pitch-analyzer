@@ -1,0 +1,102 @@
+{
+    "dedeepyakotha@gmail.com": {
+        "name": "KothaDedeepya",
+        "password": "Deepu@2215",
+        "experience": 4,
+        "security_answer": "sai",
+        "attempts": 1,
+        "lock_time": 0,
+        "ideas": [
+            {
+                "pitch": "Problem: Students struggle to manage study schedules and understand complex topics efficiently.\r\n\r\nSolution: We provide an AI-powered study assistant that generates personalized study plans, summarizes concepts, and creates quizzes based on user input.\r\n\r\nTarget Market: College students and competitive exam aspirants.\r\n\r\nBusiness Model: Freemium model with premium subscriptions for advanced analytics and mock tests.\r\n\r\nCompetition: Byju\u2019s, Unacademy.\r\n\r\nTeam: A group of software developers with experience in AI and education technology.",
+                "score": 32.47,
+                "date": "2026-09-18",
+                "readiness": "\ud83c\udf31 Early Stage",
+                "industry": "EdTech"
+            },
+            {
+                "pitch": "Mental Health Chatbot**\r\nAn AI chatbot that provides emotional support to users.  \r\nIt helps manage stress, anxiety, and depression.  \r\nThe chatbot gives coping strategies and advice.  \r\nIt connects users to professional therapists if needed.  \r\nIt promotes mental well-being and awareness.",
+                "score": 0.0,
+                "date": "2026-09-18",
+                "readiness": "\ud83c\udf31 Early Stage",
+                "industry": "SaaS / Enterprise Tech"
+            },
+            {
+                "pitch": "2. Smart Farming System**\r\nA smart farming solution using IoT sensors and AI.  \r\nIt monitors soil moisture, weather, and crop health in real time.  \r\nFarmers get recommendations for irrigation and fertilizers.  \r\nThe system helps increase crop yield and reduce water waste.  \r\nIt supports sustainable agriculture practices.",
+                "score": 5.55,
+                "date": "2026-09-18",
+                "readiness": "\ud83c\udf31 Early Stage",
+                "industry": "AgriTech"
+            },
+            {
+                "pitch": "Problem: Urban drivers waste time searching for parking spaces.\r\nSolution: We provide a real-time parking availability app using IoT sensors.\r\nMarket: Smart city solutions market is growing rapidly worldwide.\r\nBusiness: Commission from parking providers and user subscription.\r\nCompetition: Apps like Park+ exist but lack real-time accuracy in many cities.\r\nTeam: Engineers specializing in IoT and mobile development.\r\n",
+                "score": 29.57,
+                "date": "2026-09-18",
+                "readiness": "\ud83c\udf31 Early Stage",
+                "industry": "SaaS / Enterprise Tech"
+            },
+            {
+                "pitch": " Local Grocery Delivery\r\nProblem: People in small towns face difficulty accessing quick grocery delivery.\r\nSolution: We connect local stores with customers through a delivery platform.\r\nMarket: Growing demand for hyperlocal delivery services in tier-2 and tier-3 cities.\r\nBusiness: Commission-based model on each order.\r\nCompetition: Swiggy Instamart and Blinkit focus mainly on metro cities.\r\nTeam: Logistics experts and developers.\r\n",
+                "score": 27.74,
+                "date": "2026-09-18",
+                "readiness": "\ud83c\udf31 Early Stage",
+                "industry": "Transportation & Logistics"
+            }
+        ]
+    },
+    "pallavi@gmail.com": {
+        "name": "Gumpula pallavi",
+        "password": "Pallavi@123",
+        "experience": 1,
+        "security_answer": "deepu",
+        "attempts": 0,
+        "lock_time": 0,
+        "ideas": [
+            {
+                "pitch": "Problem: Restaurants waste large amounts of food daily.\r\n\r\nSolution: Platform connecting restaurants with NGOs and customers to distribute surplus food.\r\n\r\nTarget Market: Restaurants and NGOs.\r\n\r\nBusiness Model: Commission-based model.\r\n\r\nCompetition: No direct major competitors.\r\n\r\nTeam: Developers and social impact enthusiasts.",
+                "score": 30.95,
+                "date": "2026-09-18",
+                "readiness": "\ud83c\udf31 Early Stage",
+                "industry": "SaaS / Enterprise Tech"
+            },
+            {
+                "pitch": "AI Health Assistant**\r\nAn AI-powered health assistant that analyzes user symptoms and predicts possible diseases.  \r\nIt connects users with nearby doctors for quick consultation.  \r\nThe app stores digital health records securely.  \r\nIt provides personalized health tips and reminders.  \r\nThis reduces hospital visits and improves early diagnosis.\r\n",
+                "score": 0.0,
+                "date": "2026-09-18",
+                "readiness": "\ud83c\udf31 Early Stage",
+                "industry": "Healthcare"
+            },
+            {
+                "pitch": "Problem: Many students struggle to understand coding concepts due to lack of practical learning.\r\n\r\nSolution: We provide an AI-based platform with real-time coding practice and feedback.\r\n\r\nMarket: There are over 50 million students globally learning programming.\r\n\r\nBusiness Model: Subscription-based model with premium features.\r\n\r\nCompetition: Platforms like Coursera and Udemy exist but lack real-time feedback.\r\n\r\nTeam: A team of developers and educators with experience in edtech.\r\n",
+                "score": 28.51,
+                "date": "2026-09-18",
+                "readiness": "\ud83c\udf31 Early Stage",
+                "industry": "EdTech"
+            }
+        ]
+    },
+    "nandini@gmail.com": {
+        "name": "Nandini",
+        "password": "Nandhini@234",
+        "experience": 6,
+        "security_answer": "harsha",
+        "attempts": 0,
+        "lock_time": 0,
+        "ideas": [
+            {
+                "pitch": "Problem: Restaurants waste large amounts of food daily.\r\n\r\nSolution: Platform connecting restaurants with NGOs and customers to distribute surplus food.\r\n\r\nTarget Market: Restaurants and NGOs.\r\n\r\nBusiness Model: Commission-based model.\r\n\r\nCompetition: No direct major competitors.\r\n\r\nTeam: Developers and social impact enthusiasts.",
+                "score": 44.21,
+                "date": "2026-09-18",
+                "readiness": "\u26a0\ufe0f Needs Improvement",
+                "industry": "SaaS / Enterprise Tech"
+            },
+            {
+                "pitch": "Problem: Many students struggle to understand coding concepts due to lack of practical learning.\r\nSolution: We provide an AI-based platform with real-time coding practice and feedback.\r\nMarket: Over 50 million students globally are learning programming.\r\n",
+                "score": 19.33,
+                "date": "2026-09-18",
+                "readiness": "\ud83c\udf31 Early Stage",
+                "industry": "EdTech"
+            }
+        ]
+    }
+}
